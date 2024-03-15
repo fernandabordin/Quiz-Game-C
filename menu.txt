@@ -1,0 +1,25 @@
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+|                                                                                        |
+|                                  .    .                                                |
+|                                  |\  /|                                                |
+|                                  | \/ | .-. .--. .  .                                  |
+|                                  |    |(.-' |  | |  |                                  |
+|                                  '    ' `--''  `-`--`-                                 |
+|                                                                                        |
+|                                                                                        |
+|                                                                                        |
+|                                                                                        |
+|                         * O jogo possui o sistema de pontuacao *                       |
+|          * Cada pergunta correta voce ganha ponto correspondente a dificuldade *       |
+|                    * O jogo possui os niveis: Facil, Medio e Dificil *                 |
+|                                    * Facil: 5 pontos *                                 |
+|                                    * Medio: 10 pontos *                                |
+|                                   * Dificil: 15 pontos *                               |
+|                                                                                        |
+|                                                                                        |
+|                                                                                        |
+|                           Digite qualquer tecla para continuar                         |
+|                                                                                        |
+|                          Digite a tecla Espaco para sair do jogo                       |
+|                                                                                        |
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
